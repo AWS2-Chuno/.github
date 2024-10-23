@@ -40,7 +40,7 @@
       <img width="603" alt="image" src="https://github.com/user-attachments/assets/edf2e8a4-c9f6-49f8-8076-39386d4cc5c4">
     </td>
     <td>
-      <h3> ALB 구성/Ingress 확인 </h3>
+      <h3> ALB 구성/Ingress 확인 </h3>
       <br>
       <img width="613" alt="image" src="https://github.com/user-attachments/assets/4f1b9dfd-91af-490a-bbdf-abdc3173b7d0">
       <img width="662" alt="image" src="https://github.com/user-attachments/assets/58d9a1b8-4b8d-4e4d-ae72-3f1e6a90d32c">
